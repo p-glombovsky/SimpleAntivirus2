@@ -1,0 +1,8 @@
+﻿  Generating code
+  Finished generating code
+  3 of 14 functions (21.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  HookCreateProcess.vcxproj -> C:\sources\HookCreateProcess\x64\Release\HookCreateProcess.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,10 @@
+C:\sources\AntiVirusService\AntiVirusService\bin\Release\AntiVirusService.exe.config
+C:\sources\AntiVirusService\AntiVirusService\bin\Release\AntiVirusService.exe
+C:\sources\AntiVirusService\AntiVirusService\bin\Release\AntiVirusService.pdb
+C:\sources\AntiVirusService\AntiVirusService\obj\Release\AntiVirusService.csproj.CoreCompileInputs.cache
+C:\sources\AntiVirusService\AntiVirusService\obj\Release\AntiVirusService.exe
+C:\sources\AntiVirusService\AntiVirusService\obj\Release\AntiVirusService.pdb
+C:\sources\AntiVirusService\AntiVirusService\bin\Release\Newtonsoft.Json.dll
+C:\sources\AntiVirusService\AntiVirusService\bin\Release\Newtonsoft.Json.xml
+C:\sources\AntiVirusService\AntiVirusService\obj\Release\AntiVirusService.csproj.CopyComplete
+C:\sources\AntiVirusService\AntiVirusService\obj\Release\AntiVirusService.csproj.AssemblyReference.cache

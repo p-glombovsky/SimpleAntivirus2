@@ -1,0 +1,8 @@
+﻿  GenericInjector.cpp
+C:\sources\GenericInjector\GenericInjector\GenericInjector.cpp(98,9): warning C4101: 'cbNeeded': unreferenced local variable
+C:\sources\GenericInjector\GenericInjector\GenericInjector.cpp(96,11): warning C4101: 'hMods': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GenericInjector.vcxproj -> C:\sources\GenericInjector\Release\GenericInjector_64.exe
